@@ -1,6 +1,6 @@
 {
   "name": "@saltcorn/summernote",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Summernote editor for HTML fields",
   "main": "index.js",
   "dependencies": {
