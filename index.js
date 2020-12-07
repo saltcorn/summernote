@@ -33,7 +33,7 @@ const Summernote = {
           id: `input${text(nm)}`,
           rows: 10,
         },
-        v || ""
+        text(v || "")
       ),
       script(
         domReady(`$('#input${text(nm)}').summernote({
