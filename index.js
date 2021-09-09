@@ -11,13 +11,11 @@ const {
 const headers = [
   {
     script:
-      "https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-bs4.min.js",
-    integrity: "sha256-z7PxaotTB+zbU1DAY0P/MvVk7TAoy1mViNsZOShdbNA=",
+      "/plugins/public/summernote/summernote-bs4.min.js"
   },
   {
     css:
-      "https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-bs4.min.css",
-    integrity: "sha256-ztUDTRE0Jq4ZR/ZKD+fivOhevPPuiXD0ua7M+3OE+t4=",
+      "/plugins/public/summernote/summernote-bs4.min.css"
   },
 ];
 
